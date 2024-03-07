@@ -14,6 +14,7 @@
                 cout << "\nArray dapat mempunyai maksimal 20 elemen.\n";    // Output ke layar
             }
         }
+       
 int main() {
     return 0;
 }
